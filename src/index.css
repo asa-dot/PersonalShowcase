@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Alivegraff";
+  src: url("./assets/fonts/Alivegrafffont-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "graffitistreet";
+  src: url("./assets/fonts/graffitistreet.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "kenygraffiti";
+  src: url("./assets/fonts/Graffiti.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#191919] text-white;
+  }
+}
