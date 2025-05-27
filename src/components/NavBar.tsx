@@ -22,7 +22,7 @@ const NavBar: React.FC = () => {
         {/* Centro (solo desktop): Logo */}
         <a href="/" className="justify-self-center">
           <img
-            src="src/assets/ojos-de-logos-blacos.jpg"
+            src="https://res.cloudinary.com/dimmyentl/image/upload/w_800,q_auto,f_auto/v1748337518/ojos-de-logos-blacoa_hfsujx.jpg"
             alt="Logo"
             className="h-20 md:h-24 w-auto"
           />
