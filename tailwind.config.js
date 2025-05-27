@@ -4,8 +4,6 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        alivegraff: ["Alivegraff", "sans-serif"],
-        graffitistreet: ["graffitistreet", "sans-serif"],
         kenygraffiti: ["kenygraffiti", "sans-serif"],
       },
     },
