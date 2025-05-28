@@ -10,7 +10,7 @@ const NavBar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="fixed top-0 left-0 w-full z-50 bg-transparent">
+    <header className="fixed top-0 left-0 w-full z-50 bg-black text-white">
       {/* Barra superior */}
       <div className="grid grid-cols-3 items-center border-b-4 border-white max-w-6xl mx-auto px-6 pt-2 pb-1">
         {/* Izquierda: CHRIZ */}
