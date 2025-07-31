@@ -10,16 +10,8 @@ const AboutMeContent: React.FC = () => (
       />
     </div>
     <p className="text-sm md:text-base uppercase tracking-widest text-gray-400">
-      PHOTOGRAPHER * FILMMAKER
+      PHOTOGRAPHER & FILMMAKER
     </p>
-
-    <div className="mt-12 space-y-6 max-w-2xl mx-auto">
-      <p className="text-lg">
-        Me especializo en retratos y paisajes urbanos. Con más de 5 años
-        capturando momentos únicos, busco transmitir emociones a través de mi
-        lente.
-      </p>
-    </div>
   </div>
 );
 
