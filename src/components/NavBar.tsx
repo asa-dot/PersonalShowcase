@@ -139,21 +139,21 @@ const NavBar: React.FC = () => {
           {/* Iconos sociales */}
           <div className="absolute bottom-8 w-full flex justify-center space-x-8">
             <a
-              href="https://facebook.com"
+              href="https://facebook.com/Chrizfernandezz"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaFacebookF className="text-white text-2xl" />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://instagram.com/chriizz___"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaInstagram className="text-white text-2xl" />
             </a>
             <a
-              href="https://youtube.com"
+              href="https://youtube.com/@chrisfernandez3696"
               target="_blank"
               rel="noopener noreferrer"
             >
